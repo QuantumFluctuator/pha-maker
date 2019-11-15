@@ -1,0 +1,7 @@
+C:\Users\Evan\source\repos\pha Maker\pha Maker\bin\Debug\pha Maker.exe.config
+C:\Users\Evan\source\repos\pha Maker\pha Maker\bin\Debug\pha Maker.exe
+C:\Users\Evan\source\repos\pha Maker\pha Maker\bin\Debug\pha Maker.pdb
+C:\Users\Evan\source\repos\pha Maker\pha Maker\obj\Debug\pha Maker.csprojResolveAssemblyReference.cache
+C:\Users\Evan\source\repos\pha Maker\pha Maker\obj\Debug\pha Maker.csproj.CoreCompileInputs.cache
+C:\Users\Evan\source\repos\pha Maker\pha Maker\obj\Debug\pha Maker.exe
+C:\Users\Evan\source\repos\pha Maker\pha Maker\obj\Debug\pha Maker.pdb
